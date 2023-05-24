@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-[![Elijah Ayandokun's github stats](https://github-readme-stats.vercel.app/api?username=ElijahTobs&show_icons=true&theme=radical)](https://github.com/ElijahTobs/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahTobs&show_icons=true&theme=radical&layout=compact)](https://github.com/ElijahTobs/github-readme-stats)
+[![Elijah Ayandokun's github stats](https://github-readme-stats.vercel.app/api?username=ElijahTobs&show_icons=true&theme=radical)](https://github.com/ElijahTobs/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahTobs&show_icons=true&theme=radical&layout=compact)](https://github.com/ElijahTobs/github-readme-stats)
 
