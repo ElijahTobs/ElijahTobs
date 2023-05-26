@@ -30,3 +30,26 @@ Here are some ideas to get you started:
 
 [![Elijah Ayandokun's github stats](https://github-readme-stats.vercel.app/api?username=ElijahTobs&show_icons=true&theme=radical)](https://github.com/ElijahTobs/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahTobs&show_icons=true&theme=radical&layout=compact)](https://github.com/ElijahTobs/github-readme-stats)
 
+<!-- <details>
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElijahTobs&theme=transparent" />
+  </a>
+  <a href="https://github.com/ElijahTobs">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElijahTobs&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/ElijahTobs">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElijahTobs&theme=transparent" />
+  </a>
+  <a href="https://github.com/ElijahTobs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahTobs&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details> -->
+
+
+<p align="center">
+  <a href="https://github.com/ElijahTobs">
+    <img src="https://komarev.com/ghpvc/?username=ElijahTobs&color=blue&style=flat)" />
+  </a>
+</p>
+
