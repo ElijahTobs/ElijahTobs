@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 </details> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ElijahTobs">
     <img src="https://komarev.com/ghpvc/?username=ElijahTobs&color=blue&style=flat)" />
   </a>
-</p>
+</p> -->
 
