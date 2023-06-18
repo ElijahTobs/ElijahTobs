@@ -28,7 +28,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-[![Elijah Ayandokun's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ElijahTobs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/ElijahTobs/github-readme-stats) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElijahTobs&show_icons=true&theme=radical&layout=compact&exclude_repo=&hide=html,css)](https://github.com/ElijahTobs/github-readme-stats)
+<!-- [![Elijah Ayandokun's Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElijahTobs&theme=radical&exclude={exclude})](https://github.com/ElijahTobs/github-readme-stats)
+
+[![Elijah Ayandokun's Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElijahTobs&theme=radical&exclude={exclude})](https://github.com/ElijahTobs/github-readme-stats) -->
+
+[![Elijah Ayandokun's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ElijahTobs&show_icons=true&theme=radical&include_all_commits={true})](https://github.com/ElijahTobs/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElijahTobs&show_icons=true&theme=radical&layout=compact&exclude_repo=&hide=html,css)](https://github.com/ElijahTobs/github-readme-stats)
 
 <!-- <details>
 <p align="center">
