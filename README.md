@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-[![Elijah Ayandokun's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ElijahTobs&show_icons=true&theme=radical)](https://github.com/ElijahTobs/github-readme-stats) 
-
-<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElijahTobs&show_icons=true&theme=radical&layout=compact)](https://github.com/ElijahTobs/github-readme-stats) -->
+[![Elijah Ayandokun's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ElijahTobs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/ElijahTobs/github-readme-stats) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElijahTobs&show_icons=true&theme=radical&layout=compact&exclude_repo=&hide=html,css)](https://github.com/ElijahTobs/github-readme-stats)
 
 <!-- <details>
 <p align="center">
+  <a href=#>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElijahTobs&theme=transparent" />
   </a>
   <a href="https://github.com/ElijahTobs">
@@ -43,7 +42,10 @@ Here are some ideas to get you started:
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElijahTobs&theme=transparent" />
   </a>
   <a href="https://github.com/ElijahTobs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahTobs&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElijahTobs&show_icons=true&exclude_repo=&hide=css,html&theme=transparent" />
+    
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElijahTobs&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    
   </a>
 </p>
 </details> -->
